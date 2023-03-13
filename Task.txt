@@ -1,0 +1,7 @@
+Q1: Write a blog on Difference between HTTP1.1 vs HTTP2 
+Ans: https://medium.com/@bhavishanthsuresh/difference-between-http-1-1-vs-http-2-0-e5293752110e
+
+Q2: Write a blog about objects and its internal representation in Javascript
+Ans: https://medium.com/@bhavishanthsuresh/objects-and-its-internal-representation-in-javascript-8e15b1ea040
+
+Q3. codekata
